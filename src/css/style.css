@@ -20,8 +20,40 @@ img{
 
 div {
     display: block;
-    width: 280px;
+    width: 380px;
     padding: 10px 5px;
     margin: 20px;
-    background-color: rgb(22, 141, 22);
+   /* background-color: rgb(22, 141, 22);*/
+}
+
+a.impar {
+    display: block;
+    width: 160px;
+    height: 40px;
+    line-height: 40px;
+    padding: 10px 5px;
+    margin: 20px;
+    background-color: rgb(57, 160, 62);
+    color: rgb(243, 243, 243);
+    border-radius: 5px;
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial;
+}
+
+a.par {
+    display: block;
+    width: 160px;
+    height: 40px;
+    line-height: 40px;
+    padding: 10px 5px;
+    margin: 20px;
+    background-color: rgb(42, 131, 138);
+    color: rgb(243, 243, 243);
+    border-radius: 5px;
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial;
 }
