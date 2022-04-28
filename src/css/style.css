@@ -1,0 +1,27 @@
+a{
+    display: block;
+    width: 160px;
+    height: 40px;
+    line-height: 40px;
+    padding: 10px 5px;
+    margin: 20px;
+    background-color: rgb(41, 190, 113);
+    color: rgb(0, 0, 0);
+    border-radius: 5px;
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial;
+}
+
+img{
+    background-image: none;
+}
+
+div {
+    display: block;
+    width: 280px;
+    padding: 10px 5px;
+    margin: 20px;
+    background-color: rgb(22, 141, 22);
+}
