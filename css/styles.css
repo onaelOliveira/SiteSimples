@@ -316,7 +316,7 @@ header, .navbar {
   color: #65DAF9;
 }
 
-/* Call To Action */
+/*Action */
 
 #call-area {
   background-color: #65DAF9;
@@ -515,7 +515,7 @@ header, .navbar {
   margin: 5px;
   border: 1px solid #ccc;
   float: left;
-  width: 180px;
+  width: 350px;
 }
 
 .gallery:hover {
@@ -528,8 +528,8 @@ header, .navbar {
 }
 
 .desc {
-  padding: 15px;
-  text-align: center;
+  padding: 5px;
+  
 }
 
 
