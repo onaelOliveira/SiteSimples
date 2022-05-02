@@ -30,6 +30,10 @@ header, .navbar {
   width: 75px;
 }
 
+#logo1 {
+  width: 315px;
+}
+
 .navbar-brand {
   padding: 0;
   color: #FFF;
@@ -523,7 +527,7 @@ header, .navbar {
 
 .gallery:hover {
   border-radius: 40px;
-  border: 1px solid black;
+  border: 2px solid black;
 }
 
 .gallery img {
