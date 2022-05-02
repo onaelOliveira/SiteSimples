@@ -516,15 +516,20 @@ header, .navbar {
   border: 1px solid #ccc;
   float: left;
   width: 350px;
+  border: 1px solid #777;
+  border-radius: 40px;
+
 }
 
 .gallery:hover {
-  border: 1px solid #777;
+  border-radius: 40px;
+  border: 1px solid black;
 }
 
 .gallery img {
   width: 100%;
   height: auto;
+  border-radius: 40px;
 }
 
 .desc {
